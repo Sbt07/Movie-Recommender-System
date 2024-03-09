@@ -1,3 +1,2 @@
-ast
 streamlit
 scikit-learn
